@@ -1,7 +1,4 @@
-package Pilha;
-
 public class Node {
-
     private Integer informacao;
     private Node proximo;
     public Node()
